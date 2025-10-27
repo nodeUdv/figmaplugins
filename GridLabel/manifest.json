@@ -2,7 +2,7 @@
   "name": "Créer planche PDF",
   "id": "1564590701341633340",
   "api": "1.0.0",
-  "main": "code.js",
+  "main": "https://github.com/nodeUdv/figmaplugins/blob/main/GridLabel/code.js",
   "capabilities": [],
   "enableProposedApi": false,
   "documentAccess": "dynamic-page",
